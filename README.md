@@ -15,7 +15,6 @@ This project implements a sophisticated credit card fraud detection system using
 ```
 ├── 📂 data/                      # Dataset directory
 ├── 📂 models/                    # Saved model files
-├── 📂 project-screenshots/       # Project documentation images
 ├── 📄 app.py                     # Streamlit web application
 ├── 📄 main.py                    # Main execution script
 ├── 📄 model.py                   # Neural network model architecture
