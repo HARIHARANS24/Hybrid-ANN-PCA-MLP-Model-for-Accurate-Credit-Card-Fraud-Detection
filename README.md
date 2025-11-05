@@ -9,7 +9,7 @@ This project implements a sophisticated credit card fraud detection system using
 - ⚖️ SMOTE (Synthetic Minority Over-sampling Technique) for handling imbalanced datasets     
 - 📊 Comprehensive evaluation metrics including ROC-AUC and Confusion Matrix
 - 🚀 Real-time transaction analysis capabilities 
-- 📈 High accuracy and low false positive rates 
+- 📈 High accuracy and low false positive rates  
  
 ## 📁 Project Structure
 ```
@@ -85,6 +85,7 @@ For any queries or suggestions, please feel free to reach out through GitHub iss
 
 ---
 ⭐ Star this repository if you find it helpful!
+
 
 
 
