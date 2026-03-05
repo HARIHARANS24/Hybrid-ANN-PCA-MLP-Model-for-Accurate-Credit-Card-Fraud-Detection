@@ -13,16 +13,24 @@ This project implements a sophisticated credit card fraud detection system using
    
 ## 📁 Project Structure
 ```
-├── 📂 data/                      # Dataset directory
-├── 📂 models/                    # Saved model files  
-├── 📄 app.py                     # Streamlit web application
-├── 📄 main.py                    # Main execution script
-├── 📄 model.py                   # Neural network model architecture
-├── 📄 preprocess.py             # Data preprocessing utilities
-├── 📄 evaluate.py               # Model evaluation functions
-├── 📄 utils.py                  # Helper functions
-├── 📄 requirements.txt          # Project dependencies
-└── 📄 README.md                 # Project documentation
+Directory structure:
+└── hariharans24-hybrid-ann-pca-mlp-model-for-accurate-credit-card-fraud-detection/
+    ├── README.md
+    ├── app.py
+    ├── evaluate.py
+    ├── gitignore.txt
+    ├── LICENSE.txt
+    ├── main.py
+    ├── model.py
+    ├── preprocess.py
+    ├── requirements.txt
+    ├── utils.py
+    ├── data/
+    │   └── dataset.txt
+    └── models/
+        ├── fraud_model.h5
+        ├── pca_transformer.pkl
+        └── scaler.pkl
 ```
 
 ## 🚀 Getting Started
@@ -85,6 +93,7 @@ For any queries or suggestions, please feel free to reach out through GitHub iss
 
 ---
 ⭐ Star this repository if you find it helpful!
+
 
 
 
